@@ -1,0 +1,10 @@
+/* contendor de grid */
+.grid-container{
+    justify-content: center;
+}
+
+.grid-container>img{
+    width: 100%;
+
+}
+
