@@ -2,10 +2,9 @@ var s;
 var v1 = Math.abs(6); 
 var v2 = Math.abs(-6); 
 if (v1 == v2) { 
-    document.write("Absolute values are the same."); 
+    document.write("los valores absolutos son los mismos"); 
 } 
 else { 
-document.write("Absolute values are different."); 
+document.write("los valores absolutos son distintos"); 
 } 
  
-// Output: Absolute values are the same. 
