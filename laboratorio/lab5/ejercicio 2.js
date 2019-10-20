@@ -5,7 +5,7 @@ numeros=[];
 var elemento
 var suma
 var promedio
-var numeroElementos
+var numElementos
 
 
 
@@ -18,7 +18,7 @@ for(var j=0;j<50;j++){
 if(valor===numeros[j])
 console.log("el promedio es:");
 
-promedio = (suma)/numeroElementos;
+promedio = (suma)/numElementos;
 
 
 }
